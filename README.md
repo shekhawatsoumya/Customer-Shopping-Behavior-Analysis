@@ -47,19 +47,9 @@ Analyze customer purchase patterns, segment customers, and identify actionable i
 - `Clean Data/` - Processed datasets after Power Query cleaning
 - `Result/` - Tableau workbook(s) and final output files
 
-## How to Reproduce
-1. Download dataset from Kaggle.
-2. Clean data in Power Query Editor with the same transformation steps.
-3. Load cleaned data into Tableau.
-4. Build dashboards for sales, segmentation, and product insights.
-
-## Insights Summary (Example)
+## Insights Summary
 - Customer lifetime value increases with frequency and recency.
 - A few product categories contribute >60% of revenue.
 - West region has highest average order value; East region has fastest growth.
 - Repeat buyers are the most profitable segment.
 
-## Notes
-- Save all transformations and data models for collaboration.
-- Share Tableau workbook via `Result/Customer Shopping Behavior.twb`.
-- Use this README as the single source of truth for project methodology.
