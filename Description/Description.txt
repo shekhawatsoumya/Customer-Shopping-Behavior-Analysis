@@ -1,0 +1,28 @@
+Customer Shopping Behavior : Summary
+
+The data reflects a total revenue of approximately $233,081, with clothing and male shoppers driving the majority of the sales.
+
+1. Demographic Insights: Gender vs. Spending
+The most striking finding is the significant gap in spending between genders.
+Male shoppers contributed $157,890, accounting for roughly 68% of total revenue.
+Female shoppers contributed $75,191.
+Takeaway: The current product mix or marketing strategy is resonating much more strongly with male consumers.
+
+2. Product Performance: Sales Analysis
+Revenue is heavily concentrated in specific categories:
+Clothing is the clear leader, generating $104,264.
+Accessories follow as a strong second at $74,200.
+Footwear ($36,093) and Outerwear ($18,524) represent the smaller portions of the business.
+Takeaway: Core apparel and accessories are the primary revenue drivers.
+
+3. Marketing Impact: Discounts
+Interestingly, the majority of revenue came from full-price purchases rather than discounted ones.
+No Discount: $133,670
+Discount Applied: $99,411
+Takeaway: The brand maintains strong value perception, as customers are willing to pay full price for items. However, discounts still contribute to a significant portion (approx. 43%) of the volume.
+
+4. Seasonal Trends
+Sales remain remarkably consistent throughout the year, with only slight fluctuations:
+Peak Season: Fall ($60,018)
+Lowest Season: Summer ($55,777)
+Takeaway: The business does not suffer from extreme seasonality, though there is a slight "uptick" as the year progresses into Fall and Winter.
